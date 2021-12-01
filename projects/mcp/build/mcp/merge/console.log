@@ -1,0 +1,6 @@
+JVM:         /workspace/.gradle/jdks/jdk-17.0.1+12/bin/java
+JVM Args:    
+Run Args:    "--client", "/workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/stripClient/output.jar", "--server", "/workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/stripServer/output.jar", "--ann", "1.18", "--output", "/workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/merge/output.jar", "--inject", "false"
+Classpath:   /workspace/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/mergetool/1.1.3/mergetool-1.1.3-fatjar.jar
+Working Dir: /workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger

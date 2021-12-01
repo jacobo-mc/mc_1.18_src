@@ -1,0 +1,13 @@
+JVM:         /workspace/.gradle/jdks/jdk-17.0.1+12/bin/java
+JVM Args:    
+Run Args:    "--task", "bundler_extract", "--input", "/workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/downloadServer/server.jar", "--output", "/workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/extractServer/output.jar", "--jar-only"
+Classpath:   /workspace/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.2.10/installertools-1.2.10-fatjar.jar
+Working Dir: /workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/extractServer
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: BUNDLER_EXTRACT
+Input:   /workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/downloadServer/server.jar
+Output:  /workspace/mc_1.18_src/MCP-Reborn-1.18/projects/mcp/build/mcp/extractServer/output.jar
+All:     false
+JarOnly: true
+Libs:    false
+Extracted: versions/1.18/server-1.18.jar
